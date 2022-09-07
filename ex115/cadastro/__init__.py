@@ -1,0 +1,1 @@
+from cadastro import numeros, cores, textos
